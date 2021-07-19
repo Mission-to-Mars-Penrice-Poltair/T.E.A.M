@@ -1,4 +1,4 @@
-# TEAM
+# T.E.A.M
 
 TinkerCad Circuit basic design URL is
 

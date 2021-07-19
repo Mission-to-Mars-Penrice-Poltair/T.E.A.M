@@ -5,20 +5,20 @@ TinkerCad Circuit basic design URL is
 https://www.tinkercad.com
 
 ## Team Values
-What are your team values?
+
 
 ## Scrum Git
 Replace with your name and item. 
 
 ## Day 1 Retrospective
 
-### What went well
+### What went well- we we're able to communicate together well
 
-### What didn't go well
+### What didn't go well - we didn't really how to put the pseudocode into physical code
 
-### What we will do more of tomorrow
+### What we will do more of tomorrow - break the code down with comments in the program
 
-### What we will do less of tomorrow
+### What we will do less of tomorrow - stay more hydrated during work
 
 ## Day 2 Retrospective
 

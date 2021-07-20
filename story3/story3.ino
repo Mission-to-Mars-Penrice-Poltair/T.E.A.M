@@ -1,10 +1,10 @@
-int const FWD_RIGHT = 12; //forwards int const GREEN = 11; //stopped
-int const REV_RIGHT = 11;
-int const ENABLE_RIGHT = 10; //backwards
+int const FWD_RIGHT = 7; //forwards int const GREEN = 11; //stopped
+int const REV_RIGHT = 8;
+int const ENABLE_RIGHT = 9; //backwards
 // add all the other connections
-int const ENABLE_LEFT = 9;
-int const FWD_LEFT = 8;
-int const REV_LEFT = 7;
+int const ENABLE_LEFT = 10;
+int const FWD_LEFT = 11;
+int const REV_LEFT = 12;
 void setup()
 {
   pinMode(FWD_RIGHT, OUTPUT);

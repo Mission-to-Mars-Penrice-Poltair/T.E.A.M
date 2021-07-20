@@ -12,7 +12,7 @@ Replace with your name and item.
 
 ## Day 1 Retrospective
 
-### What went well- we we're able to communicate together well
+### What went well- we were able to communicate together well
 
 ### What didn't go well - we didn't really how to put the pseudocode into physical code
 
@@ -21,6 +21,14 @@ Replace with your name and item.
 ### What we will do less of tomorrow - stay more hydrated during work
 
 ## Day 2 Retrospective
+
+### What went well - we made a lot of progress in the stories
+
+### What didn't go well - had a lot of syntax errors in the code that we struggled to repair
+
+### What we will do more of tomorrow - stay hydrated and find syntax resources	
+
+### What we will do less of tomorrow - make less syntax errors
 
 ## Final Retrospective
 

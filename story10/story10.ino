@@ -1,3 +1,4 @@
+
 int const FWD_RIGHT = 7;//forwards int const GREEN = 11; //stopped
 int const REV_RIGHT = 8;
 int const ENABLE_RIGHT = 9;//backwards
@@ -50,14 +51,14 @@ void loop()
   // Make the rover go forwards
   
   // If there a wall in front at 15cm
-  if (sonar.ping_cm() <= 12 && sonar.ping_cm() > 0){
+  if (sonar.ping_cm() >= 12 && sonar.ping_cm() > 0){
       // stop
   stop_rover(1000);
       // reverse
   reverse_rover(500);
       // turn left
   // carry on forwards
-
+  stop_rover(9999);
     
   }
   

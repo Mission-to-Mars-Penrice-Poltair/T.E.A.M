@@ -32,6 +32,10 @@ Replace with your name and item.
 
 ## Final Retrospective
 
+### The experience of Mission to Mars was good and we enjoyed it, however we don't think we were
+ as productive as we could have been due to our knowledge of c++ and our time management and 
+organisation. However, on the whole, we worked well together as a team and enjoyed the experience. 
+
 This is the readme. Formatting of text is as follows.
 
 # Largest Heading
